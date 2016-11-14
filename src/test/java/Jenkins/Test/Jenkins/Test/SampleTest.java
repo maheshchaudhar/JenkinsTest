@@ -7,6 +7,7 @@ public class SampleTest {
 @Test
 public void sampleTest(){
 System.out.println("Test 12345dfdf");
+System.out.println("Test 12345dfdf");
 }
 
 }
